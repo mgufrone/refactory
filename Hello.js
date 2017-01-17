@@ -7,6 +7,8 @@ class Hello extends Component {
             <View>
               <Text>Simple Text
               </Text>
+              <Text>This is simple test
+              </Text>
             </View>
         );
     }
