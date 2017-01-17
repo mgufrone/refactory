@@ -4,7 +4,11 @@ import {View, Text, Image} from 'react-native';
 class Hello extends Component {
     render() {
         return (
-            <View><Text>SImple TExt</Text></View>
+            <View>
+                <TouchableOpacity>
+                    <Text>Simple Text</Text>
+                </TouchableOpacity>
+            </View>
         );
     }
 }
