@@ -8,7 +8,7 @@ class Hello extends Component {
                 <View>
                   <Text>Simple Text
                   </Text>
-                  <Text>I'm just editting this line
+                  <Text>I'm just editting this line. This is simple test new branch for conflict
                   </Text>
                 </View>
             </TouchableOpacity>
